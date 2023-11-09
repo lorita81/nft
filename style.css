@@ -1,0 +1,440 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: " Work Sans";
+    src: url(WorkSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Space Mono ";
+    src: url(Space\ Mono.ttf);
+}
+
+
+
+@media only screen and  (max-width: 426px) {
+    .disc {
+    
+        font-size: 28px !important;
+        padding-right: 0px !important;
+    }
+    .NFT {
+    
+        font-size: 16px !important;
+    }
+    .dog {
+        display: block !important;
+      
+       
+    }
+
+    
+   
+
+    .but{
+    margin-left: 50px;
+    }
+    .mush {
+       
+        display: none;
+    }
+    .disco {
+        display: none;
+    }
+    .trend-text  h3 {
+        margin: 0;
+        margin-top: 90px;
+
+    }
+    .Checkout {
+        font-family: " Work Sans";
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0em;
+        text-align: left;
+        
+        
+        
+        
+    }
+    .top {
+        width: 315px !important;
+        height:93px;
+        gap: 100px;
+        
+        
+        }
+
+      .btn-hero .btn {
+        display: none;
+      }
+
+    .Checkout-1{
+
+        color: #FFF;
+        font-family: " Work Sans";
+        /* Base(Body) - Work Sans */
+       
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%; /* 22.4px */
+      }
+
+      .headline .top{
+
+        color: #FFF;
+
+        /* H4 - Work Sans */
+        font-family: " Work Sans";
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%; /* 39.2px */
+        text-transform: capitalize;
+
+
+    }
+
+    .get{
+        display: none;
+    
+    }
+
+    .keep {
+        display: none;
+    }
+
+    .nft-art {
+        display:none ;
+        height: 220px;
+        margin-top: -300px;
+    }
+
+
+    
+    
+}
+
+.btn-Sign {
+    display: flex;
+    width: 152px;
+    height: 60px;
+    padding: 0px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border-radius: 20px;
+    background:  #A259FF;
+    margin-left: 20px;
+
+   
+
+}
+
+.nav-link {
+    margin-left: 20px;
+
+}
+
+.NFT {
+    
+    color: #FFF;
+    /* Body Text- Work Sans */
+    font-family: " Work Sans";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; /* 35.2px */
+    text-transform: capitalize;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+.hero {
+    background-color: #3B3B3B;
+   
+     
+
+}
+.container-2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.disc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1 0 0;
+    color:  #FFF;
+    /* H1 - Work Sans */
+    font-family: " Work Sans";
+    font-size: 67px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+    /* 73.7px */
+    text-transform: capitalize;
+    padding-right: 150px;
+}
+
+.discover {
+
+
+    
+    margin-bottom: 20px;
+}
+
+
+.space {
+    margin-bottom: 20px;
+}
+.Checkout{
+    width: 1,050px;
+    height: 91px;
+    gap: 100px;
+
+    
+}
+
+.dog{
+    margin-top: 60px;
+
+}
+.mrfox {
+    font-family: " Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.Asset {
+
+    height: 109px;
+    padding: 20px;
+    border-radius: 0px, 0px, 20px, 20px;
+    gap: 10px
+
+}
+.Sign{
+    text-decoration-line: none;
+}
+.top{
+    width: 100%;
+    height: 46px;
+    gap: 10px;
+    font-family: " Work Sans";
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.top-2{
+    width: 100%;
+    height: 100%;
+    font-family: " Work Sans";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+.btn-hero {
+
+    width:247px;
+    height: 60px;;
+    padding: 0px, 50px, 0px, 50px;
+    border-radius: 20px;
+    border: 2px;
+    gap: 12px;
+    background-color: #A259FF;
+    border: 2px solid #A259FF
+    
+    
+
+}
+.Checkout {
+    color:  #FFF;
+    /* Body Text- Work Sans */
+    font-family: " Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+
+
+}
+
+.headline {
+    width:100% !important;
+    height: 100% !important;
+    gap: 100px;
+
+}
+
+.Checkout-1{
+
+    color:  #FFF;
+    /* Body Text- Work Sans */
+    font-family: " Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; /* 35.2px */
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
+
+.headline .button-2 {
+    width: 100%;
+  
+    height: 60px;;
+
+    border-radius: 20px;
+    border: 2px;
+    gap: 12px;
+    border: 2px solid #A259FF;
+    
+}
+
+.browse {
+    font-family: " Work Sans";
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+   
+    
+
+}
+
+
+
+.container-4 {
+
+background-image: url(hugemashroom.png);
+
+height: 640px;
+background-color: #3B3B3B;
+
+
+}
+
+.nft-art {
+    width: 1050px;
+    height: 220px;
+    margin-top: -220px;
+}
+.button-3 {
+width: 198px;
+height: 60px;
+padding: 22px, 50px, 22px, 50px;
+border-radius: 20px;
+gap: 12px;
+background-color: aliceblue !important;
+
+}
+
+.join-1 {
+
+    
+    
+     font-family: " Work Sans";
+     font-size: 38px;
+     font-weight: 600;
+   
+     letter-spacing: 0em;
+     text-align: left;
+
+    
+}
+.exclusive {
+ 
+    font-family: " Work Sans";
+    font-size: 22px;
+    font-weight: 400;
+   
+    letter-spacing: 0em;
+  
+
+
+}
+.btn-email {
+    width: 315px;
+    height:46px;
+    padding: 16px, 20px, 16px, 20px;
+    border-radius: 20px;
+    border: 1px;
+   background-color: #FFF !important;
+    font-family: " Work Sans";
+
+}
+
+.footer-2 {
+    width: 238px;
+    height: 44px;
+    font-family: " Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.footer-3 {
+    width: 238px;
+    height: 44px;
+    font-family: " Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+.Expl {
+    width: 95px;
+    height: 35px;
+    font-family: "Space Mono ";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.end{
+    width: 1,049.41px;
+    height: 33px;
+    gap: 20px;
+    font-family: " Work Sans";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+    
+}
+
+
+
+
+
